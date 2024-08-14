@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, I'm Karishma Silra 👋
 
-<!--
-**K-pix/K-pix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Frontend Developer with a focus on backend.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Frontend
+- 🌱 I’m currently learning Fast Api's
+- 👯 I’m looking to collaborate on sc solutions projects.
+- 📫 How to reach me:karishmasilra123@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- **Languages:**  Python, JavaScript , Html ,CSS , SQl   
+- **Frameworks:** Django
+- **Tools:** Docker
+- **Cloud:** AWS, Azure, GCP
+
+## 🌐 Connect with Me
+
+- [LinkedIn](Your LinkedIn URL)
+- 
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+Thanks for visiting my profile!
