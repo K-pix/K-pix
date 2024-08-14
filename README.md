@@ -5,8 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Frontend Developer with a focus o
 
 - 🔭 I’m currently working on Frontend
 - 🌱 I’m currently learning Fast Api's
-- 👯 I’m looking to collaborate on sc solutions projects.
-- 📫 How to reach me:karishmasilra123@gmail.com
+- 📫 How to reach me: karishmasilra123@gmail.com
 
 ## 🛠️ Technologies & Tools
 
@@ -17,8 +16,8 @@ Welcome to my GitHub profile! I'm a passionate Frontend Developer with a focus o
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](Your LinkedIn URL)
-- 
+- [LinkedIn](https://www.linkedin.com/in/karishma-silra-29814630b/)
+  
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
